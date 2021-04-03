@@ -1,0 +1,4 @@
+streamlit
+gensim
+python_glove
+pickle
